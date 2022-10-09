@@ -1,0 +1,5 @@
+.data 
+myid: .asciiz "@03086745\n"
+
+.text
+main:
