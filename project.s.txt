@@ -1,0 +1,5 @@
+.data
+ram ram ram
+
+.text
+lolololol
