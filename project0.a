@@ -3,3 +3,9 @@ myid: .asciiz "@03086745\n"
 
 .text
 main:
+la $t0, myid
+
+li $v0,4
+la $a0,myid
+syscall
+
